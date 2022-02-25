@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTask", "RTask\RTask.csproj", "{9B22521B-ED92-4107-8CC1-3C7A34554EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B22521B-ED92-4107-8CC1-3C7A34554EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B22521B-ED92-4107-8CC1-3C7A34554EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B22521B-ED92-4107-8CC1-3C7A34554EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B22521B-ED92-4107-8CC1-3C7A34554EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89002393-4086-48B8-86E9-48612395EE8A}
+	EndGlobalSection
+EndGlobal
